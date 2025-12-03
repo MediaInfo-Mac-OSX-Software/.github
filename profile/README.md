@@ -9,7 +9,7 @@
 
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/3e/c5/393ec5fe-6cea-2b9b-32a5-f60302a1bf84/mediainfo.png/1200x630bb.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/mediainfo">
+<a href="https://mac-apps-install.github.io/.github/mediainfo">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
